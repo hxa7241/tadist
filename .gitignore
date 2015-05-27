@@ -1,0 +1,11 @@
+/_dev
+/temp
+/obj
+/libs
+.DS_Store
+*.cmxa
+*.cma
+*.cm[ixo]
+*.[ao]
+tadist
+tadistb
